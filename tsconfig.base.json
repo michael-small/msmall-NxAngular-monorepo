@@ -15,7 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@msmall-angular-monorepo/header": ["libs/header/src/index.ts"]
+      "@msmall-angular-monorepo/header": ["libs/header/src/index.ts"],
+      "@msmall-angular-monorepo/material": ["libs/material/src/index.ts"],
+      "@msmall-angular-monorepo/sidenav": ["libs/sidenav/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

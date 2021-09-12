@@ -39,18 +39,24 @@
     },
     "header-e2e": {
       "tags": [],
-      "implicitDependencies": [
-        "header"
-      ]
+      "implicitDependencies": ["header"]
+    },
+    "material": {
+      "tags": []
     },
     "nx-lab": {
       "tags": []
     },
     "nx-lab-e2e": {
       "tags": [],
-      "implicitDependencies": [
-        "nx-lab"
-      ]
+      "implicitDependencies": ["nx-lab"]
+    },
+    "sidenav": {
+      "tags": []
+    },
+    "sidenav-e2e": {
+      "tags": [],
+      "implicitDependencies": ["sidenav"]
     }
   }
 }
